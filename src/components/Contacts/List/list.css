@@ -1,0 +1,15 @@
+.list{
+    margin: 15px 0px;
+}
+
+.list > li {
+    background-color: antiquewhite;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+}

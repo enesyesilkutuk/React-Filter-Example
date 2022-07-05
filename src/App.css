@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn > button {
+  padding: 5px;
+  width: 60px;
+  cursor: pointer;
+}
